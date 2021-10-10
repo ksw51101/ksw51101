@@ -2,7 +2,7 @@
 
 ### Hello, I'm Siwon Kim!
 
-I am studying programming hard to become a developer!
+I am studying programming hard to become a full-stack developer!
 
 </br>
 
